@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TempReader</string>
+    <string name="t">T =</string>
+    <string name="p">P =</string>
+    <string name="pa">Pa</string>
+    <string name="zero">0</string>
+    <string name="c">°C</string>
+    <string name="temperature_pressure_reader"><![CDATA[Temperature & Pressure reader]]></string>
+</resources>

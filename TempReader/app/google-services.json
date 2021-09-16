@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "142080939893",
+    "project_id": "temperature-30d21",
+    "storage_bucket": "temperature-30d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142080939893:android:d54cbb6499eebcaaf4253c",
+        "android_client_info": {
+          "package_name": "com.example.tempandpressurereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142080939893-klio3dv96alhelgdpukomq6trkul2l85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7EyAjMXDKD-7r78MiExYLp-awHhQGPr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142080939893-klio3dv96alhelgdpukomq6trkul2l85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142080939893:android:4dd3a7656faf02dbf4253c",
+        "android_client_info": {
+          "package_name": "com.example.tempreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142080939893-klio3dv96alhelgdpukomq6trkul2l85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7EyAjMXDKD-7r78MiExYLp-awHhQGPr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142080939893-klio3dv96alhelgdpukomq6trkul2l85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+George Furdui - 10 - involved in searching and finding a solution that detects sound intensity.
+Tudor Vasile Joanta - 10 - involved in creating a good architecture and communication between Iot App and Mobile App.
